@@ -188,19 +188,19 @@ a[aria-expanded="true"] {
     transform: scale(1.3) 
 }
 
-.fa-facebook-f:hover{ 
+.social-icons .fa-facebook-f:hover{ 
     color : #3b5998; 
 }
 
-.fa-envelope:hover{ 
+.social-icons .fa-envelope:hover{ 
     color : #D44638; 
 }
 
-.fa-phone-alt:hover{ 
+.social-icons .fa-phone-alt:hover{ 
     color : green; 
 }
 
-.fa-linkedin:hover{ 
+.social-icons .fa-linkedin:hover{ 
     color : #0e76a8; 
 }
 
